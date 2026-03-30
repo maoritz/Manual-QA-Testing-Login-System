@@ -1,6 +1,6 @@
-# QA Testing Project
+# Manual QA Testing – Login System
 
-This project demonstrates manual testing skills on a web application.
+This project demonstrates manual testing of a login system, including test planning, test case design, and bug reporting.
 
 ## Includes:
 - Test Plan  
